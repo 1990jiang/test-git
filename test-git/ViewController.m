@@ -17,7 +17,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
  
-
+    //修改了一下背景颜色
+    self.view.backgroundColor = [UIColor orangeColor];
 
 
 }
